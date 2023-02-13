@@ -1,3 +1,2 @@
 Hello!
-This Git version control stuff is pretty interesting-2/13/23 12:28 AM
-What
+I'm Daniel and I am learning Git 2/13/23 12:41 AM
